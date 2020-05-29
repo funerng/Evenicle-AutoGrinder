@@ -12,3 +12,5 @@ If you want to stop the script the easiest is to press esc and open the game men
 
 If the script doesn't work anymore, usually restarting the game helps.
 
+# To Do
+Modify code to use a better image recognition library as well change code from automating mouse movement to keyboard presses
